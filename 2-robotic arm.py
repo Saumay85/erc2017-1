@@ -1,3 +1,8 @@
+"""controls
+W/S-- upper arm
+i/k--middle arm
+o/l-- bottom arm
+"""
 import pygame
 from pygame.locals import *
 from OpenGL.GL import *
